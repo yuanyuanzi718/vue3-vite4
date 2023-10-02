@@ -1,7 +1,7 @@
 # 启动
 
-`npm i`
-`npm run dev`
+1.`npm i  --force`
+2.`npm run dev`
 
 ## 项目开发文档
 
